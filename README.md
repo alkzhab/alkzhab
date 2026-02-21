@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Zhabrail! <br>A second-year student in Computer Science at Gustave Eiffel University in Champs-sur-Marne, <br>I'm passionate about web development.<br><br>🔭 I’m currently working on: Developing a Full Stack e-commerce website.<br><br>🌱 I’m currently learning: React, TypeScript, and NoSQL databases.<br><br>🎯 My current goal: Looking for an 8-week internship (minimum) in Web Development or Systems & Networks.<br><br>📫 How to reach me: [![LinkedIn]](https://linkedin.com/in/www.linkedin.com/in/zhabrail-alkhastov) | Portfolio | alk.zhabrail@gmail.com
+👋 Hi, I'm Zhabrail! <br>A second-year student in Computer Science at Gustave Eiffel University in Champs-sur-Marne, <br>I'm passionate about web development.<br><br>🔭 I’m currently working on: Developing a Full Stack e-commerce website.<br><br>🌱 I’m currently learning: React, TypeScript, and NoSQL databases.<br><br>🎯 My current goal: Looking for an 8-week internship (minimum) in Web Development or Systems & Networks.<br><br>📫 How to reach me: [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/zhabrail-alkhastov) | [LinkedIn](https://alkzhab.github.io/) | alk.zhabrail@gmail.com
 
 
 ## 🌐 Socials:
